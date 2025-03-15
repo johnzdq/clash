@@ -1,7 +1,3 @@
-# IP段匹配
-#IP-CIDR,142.171.133.131/32,no-resolve
-
-# 国外DNS
 DOMAIN-SUFFIX,web6868.com
 DOMAIN-SUFFIX,tv6868.com
 DOMAIN-SUFFIX,ott6868.com
