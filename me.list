@@ -1,6 +1,6 @@
 # IP段匹配
-#IP-CIDR,166.0.198.239/32,no-resolve
-#IP-CIDR,156.224.28.22/32,no-resolve
+IP-CIDR,166.0.198.239/32,no-resolve
+IP-CIDR,156.224.28.22/32,no-resolve
 
 DOMAIN-SUFFIX,web6868.com
 DOMAIN-SUFFIX,tv6868.com
